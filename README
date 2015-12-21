@@ -1,0 +1,5 @@
+Makefile is included; however the command
+	gcc main.c hash.c fileio.c Matrix.c
+is what is used to compile.
+
+Output file will be "a.out", requiring the command "./a.out" to run the program.
